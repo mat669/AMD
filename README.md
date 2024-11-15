@@ -2,6 +2,8 @@
 
 This repository contains the code and resources for a deep-learning-based system designed to classify images from the Comics Faces dataset into real and comic faces. The project involves data preprocessing, baseline model creation, hyperparameter tuning, and the development of advanced neural networks, including Multi-Layer Perceptron (MLP) and Convolutional Neural Networks (CNNs).
 
+![Alt text](images/errors.jpg)
+
 ## Project Structure
 
 - **`MATTEO_CIARROCCHI_PROGETTO_AMD.ipynb`**: Main Jupyter notebook containing the code and implementation details.
